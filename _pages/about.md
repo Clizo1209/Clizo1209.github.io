@@ -24,10 +24,10 @@ I am currently following Professor Zhiwei Xu and Professor Zeyang Liu on the Age
 
 # 🪪 Profile
 - *Gender*: &nbsp;Male
-- *Phone*: &nbsp;***********
-- *WeChat*: &nbsp;********
-- *EMail*: &nbsp;**********@qq.com
-- *Birthday*: &nbsp;******** ****
+- *Phone*: &nbsp;*
+- *WeChat*: &nbsp;*
+- *EMail*: &nbsp;*@qq.com
+- *Birthday*: &nbsp;*
 
 # 🔥 News
 - *2025.01 (Now)*: &nbsp;Participate in AgentSociety Challenge @ WWW 2025.
