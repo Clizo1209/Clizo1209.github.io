@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lizhao Chen \n 陈利钊"
+  name             : "Lizhao Chen 陈利钊"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Shandong University"
   location         : "Jinan, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "chenlizhao@sdu.edu.cn / chenlz1209@qq.com"
+  email            : "chenlz1209@qq.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
