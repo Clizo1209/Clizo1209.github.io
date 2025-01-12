@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Lizhao Chen 陈利钊"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "https://avatars.githubusercontent.com/u/60803006"
   bio              : "Shandong University"
   location         : "Jinan, China"
   employer         :
