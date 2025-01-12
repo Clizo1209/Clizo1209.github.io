@@ -26,6 +26,7 @@ I am currently following Professor Zhiwei Xu and Professor Zeyang Liu on the Age
 - *Gender*: &nbsp;Male
 - *Phone*: &nbsp;***********
 - *WeChat*: &nbsp;********
+- *EMail*: &nbsp;**********@qq.com
 - *Birthday*: &nbsp;******** ****
 
 # 🔥 News
