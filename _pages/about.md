@@ -36,6 +36,7 @@ I am currently following Professor Zhiwei Xu and Professor Zeyang Liu on the Age
 # 📖 Learning
 - *2022*: &nbsp;Learn Java and develop game plugins.
 - *2021*: &nbsp;Learning wechat mini program development, currently responsible for the development of Shandong University Psychological Center appointment mini program.
+- *2020*: &nbsp;Learn Unity development.
 - *2020*: &nbsp;Learn ASP, PHP and other Web development, familiar with MS SQL Server, MySQL and other databases.
 - *2017*: &nbsp;Get exposure to computers and start learning C# for Windows desktop development.
 
