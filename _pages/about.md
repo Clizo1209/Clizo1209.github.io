@@ -22,6 +22,12 @@ I am currently following Professor Zhiwei Xu and Professor Zeyang Liu on the Age
 
 <span class='anchor' id='-news'></span>
 
+# 🪪 Profile
+- *Gender*: &nbsp;Male
+- *Phone*: &nbsp;***********
+- *WeChat*: &nbsp;********
+- *Birthday*: &nbsp;******** ****
+
 # 🔥 News
 - *2025.01 (Now)*: &nbsp;Participate in AgentSociety Challenge @ WWW 2025.
 
