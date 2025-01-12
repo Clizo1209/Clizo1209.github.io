@@ -20,18 +20,26 @@ redirect_from:
 I am currently a student of [School of Artificial Intelligence](https://ai.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/). 
 I am currently following Professor Zhiwei Xu and Professor Zeyang Liu on the AgentSociety Challenge @WWW 2025.
 
+<span class='anchor' id='-news'></span>
+
 # 🔥 News
 - *2025.01 (Now)*: &nbsp;Participate in AgentSociety Challenge @ WWW 2025.
 
+<span class='anchor' id='-experience'></span>
+
 # 🎓 Experience
-- *2024.09 - Present*, Study at [School of Artificial Intelligence](https://ai.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/)
-- *2021.09 - 2024.06*, Study at [JINAN LICHENG NO.2 HIGH SCHOOL](https://www.lcez.cn/)
+- *2024.09 - Present* &nbsp;Study at [School of Artificial Intelligence](https://ai.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/)
+- *2021.09 - 2024.06* &nbsp;Study at [JINAN LICHENG NO.2 HIGH SCHOOL](https://www.lcez.cn/)
+
+<span class='anchor' id='-learning'></span>
 
 # 📖 Learning
 - *2022*: &nbsp;Learn Java and develop game plugins.
 - *2021*: &nbsp;Learning wechat mini program development, currently responsible for the development of Shandong University Psychological Center appointment mini program.
 - *2020*: &nbsp;Learn ASP, PHP and other Web development, familiar with MS SQL Server, MySQL and other databases.
 - *2017*: &nbsp;Get exposure to computers and start learning C# for Windows desktop development.
+
+<span class='anchor' id='-advantages'></span>
 
 # 📝 Advantages
 - Strong Self-Learning Ability: Has been learning development for around eight years, with most knowledge acquired through online resources. 
@@ -44,3 +52,8 @@ I am currently following Professor Zhiwei Xu and Professor Zeyang Liu on the Age
 
 <!-- # 🎖 Honors and Awards
 - *Building* Building... -->
+
+<span class='anchor' id='-hobbies'></span>
+
+# 🔎 Hobbies
+- Photography, aerial photography, video clips, etc.
