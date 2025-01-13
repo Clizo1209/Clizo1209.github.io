@@ -50,10 +50,10 @@ I am currently following Professor Zhiwei Xu and Professor Zeyang Liu on the Age
 <span class='anchor' id='-advantages'></span>
 
 # 📝 Advantages
-- Strong Self-Learning Ability: Has been learning development for around eight years, with most knowledge acquired through online resources. 
-- Cross-Platform Development: Currently proficient in Windows desktop development, web development, and network-related technologies, with a strong grasp of web scraping and data collection techniques. 
-- Rich Practical Experience: Extensive development experience in desktop applications, web development, and game server plugins, having undertaken related development tasks. 
-- Good Academic Performance: Ranked 4377 in the provincial entrance examination in Shandong (out of approximately 720,000 candidates), with a perfect score in the foundational programming course "Introduction to Programming" during the first semester of university. 
+- **Strong Self-Learning Ability**: Has been learning development for around eight years, with most knowledge acquired through online resources. 
+- **Cross-Platform Development**: Currently proficient in Windows desktop development, web development, and network-related technologies, with a strong grasp of web scraping and data collection techniques. 
+- **Rich Practical Experience**: Extensive development experience in desktop applications, web development, and game server plugins, having undertaken related development tasks. 
+- **Good Academic Performance**: Ranked 4377 in the provincial entrance examination in Shandong (out of approximately 720,000 candidates), with a perfect score in the foundational programming course "Introduction to Programming" during the first semester of university. 
 
 <!-- # 📝 Publications 
 - Building... -->
