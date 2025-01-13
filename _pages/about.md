@@ -22,10 +22,10 @@ I am currently following Professor Zhiwei Xu and Professor Zeyang Liu on the Age
 
 # 🪪 Profile
 - *Gender*: &nbsp;Male
-- *Phone*: &nbsp;*
-- *WeChat*: &nbsp;*
-- *EMail*: &nbsp;*@qq.com
-- *Birthday*: &nbsp;*
+- *Phone*: &nbsp;[Private]
+- *WeChat*: &nbsp;[Private]
+- *EMail*: &nbsp;[Private]
+- *Birthday*: &nbsp;[Private]
 
 <span class='anchor' id='-news'></span>
 
