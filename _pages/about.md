@@ -36,7 +36,7 @@ I am currently following Professor Zhiwei Xu and Professor Zeyang Liu on the Age
 
 # 🎓 Experience
 - *2024.09 - Present* &nbsp;Study at [School of Artificial Intelligence](https://ai.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/)
-- *2021.09 - 2024.06* &nbsp;Study at [JINAN LICHENG NO.2 HIGH SCHOOL](https://www.lcez.cn/)
+- *2021.09 - 2024.06* &nbsp;Study at [Jinan Licheng No.2 High School](https://www.lcez.cn/)
 
 <span class='anchor' id='-learning'></span>
 
@@ -44,7 +44,7 @@ I am currently following Professor Zhiwei Xu and Professor Zeyang Liu on the Age
 - *2022*: &nbsp;Learn Java and develop game plugins.
 - *2021*: &nbsp;Learning wechat mini program development, currently responsible for the development of Shandong University Psychological Center appointment mini program.
 - *2020*: &nbsp;Learn Unity development.
-- *2020*: &nbsp;Learn ASP, PHP and other Web development, familiar with MS SQL Server, MySQL and other databases.
+- *2019*: &nbsp;Learn ASP, PHP and other Web development, familiar with MS SQL Server, MySQL and other databases.
 - *2017*: &nbsp;Get exposure to computers and start learning C# for Windows desktop development.
 
 <span class='anchor' id='-advantages'></span>
