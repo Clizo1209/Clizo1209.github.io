@@ -36,7 +36,7 @@ I am currently following Professor Zhiwei Xu and Professor Zeyang Liu on the Age
 <span class='anchor' id='-projects'></span>
 
 # 📦 Projects
-- *2025.01 - 2025.02 (Now)*: &nbsp; *WeChat Mini Program* *PHP* The Instrument Reservation System of the Psychological Center of Shandong University.
+- *2025.01 - 2025.02 (Now)*: &nbsp; The Instrument Reservation System of the Psychological Center of Shandong University `WeChat Mini Program` `PHP`
 
 <span class='anchor' id='-experience'></span>
 
