@@ -51,7 +51,7 @@ I am currently following Professor Zhiwei Xu and Professor Zeyang Liu on the Age
 - *2021*: &nbsp;Learn WeChat Mini Program development.
 - *2020*: &nbsp;Learn Unity development.
 - *2019*: &nbsp;Learn ASP, PHP and other Web development, familiar with MS SQL Server, MySQL and other databases.
-- *2017*: &nbsp;Get exposure to computers and start learning C# for Windows desktop development.
+- *2017*: &nbsp;Learn C# for Windows desktop development.
 
 <span class='anchor' id='-advantages'></span>
 
