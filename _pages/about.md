@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a student of [School of Artificial Intelligence](https://ai.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/). 
+
 I am currently following Professor Zhiwei Xu and Professor Zeyang Liu on the AgentSociety Challenge @WWW 2025.
 
 # 🪪 Profile
@@ -30,7 +31,12 @@ I am currently following Professor Zhiwei Xu and Professor Zeyang Liu on the Age
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
-- *2025.01 (Now)*: &nbsp;Participate in AgentSociety Challenge @ WWW 2025.
+- *2025.01 - 2025.02 (Now)*: &nbsp;Participate in AgentSociety Challenge @ WWW 2025.
+
+<span class='anchor' id='-projects'></span>
+
+# 📦 Projects
+- *2025.01 - 2025.02 (Now)*: &nbsp; *WeChat Mini Program* *PHP* The Instrument Reservation System of the Psychological Center of Shandong University.
 
 <span class='anchor' id='-experience'></span>
 
@@ -42,7 +48,7 @@ I am currently following Professor Zhiwei Xu and Professor Zeyang Liu on the Age
 
 # 📖 Learning
 - *2022*: &nbsp;Learn Java and develop game plugins.
-- *2021*: &nbsp;Learning wechat mini program development, currently responsible for the development of Shandong University Psychological Center appointment mini program.
+- *2021*: &nbsp;Learn WeChat Mini Program development.
 - *2020*: &nbsp;Learn Unity development.
 - *2019*: &nbsp;Learn ASP, PHP and other Web development, familiar with MS SQL Server, MySQL and other databases.
 - *2017*: &nbsp;Get exposure to computers and start learning C# for Windows desktop development.
