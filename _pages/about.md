@@ -70,4 +70,4 @@ I am currently following Professor Zhiwei Xu and Professor Zeyang Liu on the Age
 <span class='anchor' id='-hobbies'></span>
 
 # 🔎 Hobbies
-- Photography, aerial photography, video clips, etc.
+- Photography, Drone, Video Clips, etc.
