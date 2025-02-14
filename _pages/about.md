@@ -29,7 +29,7 @@ I am currently a student of [School of Artificial Intelligence](https://ai.sdu.e
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
-- *2025.01 - 2025.02*: &nbsp;Participate in AgentSociety Challenge @ WWW 2025.
+- *2025.01 - 2025.02*: &nbsp;Participated in the AgentSociety Challenge @ WWW 2025 and achieved 10th place.
 
 <span class='anchor' id='-projects'></span>
 
