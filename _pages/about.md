@@ -24,7 +24,7 @@ I am currently a student of [School of Artificial Intelligence](https://ai.sdu.e
 - *Phone*: &nbsp;[Private]
 - *WeChat*: &nbsp;[Private]
 - *EMail*: &nbsp;[Private]
-- *Birthday*: &nbsp;[Private]
+- *Birthday*: &nbsp;2005.[Private]
 
 <span class='anchor' id='-news'></span>
 
@@ -45,6 +45,7 @@ I am currently a student of [School of Artificial Intelligence](https://ai.sdu.e
 <span class='anchor' id='-learning'></span>
 
 # 📖 Learning
+- *2024*: &nbsp;Learn Python.
 - *2023*: &nbsp;Learn Cybersecurity.
 - *2022*: &nbsp;Learn Java and develop game plugins.
 - *2021*: &nbsp;Learn WeChat Mini Program development.
