@@ -29,12 +29,13 @@ I am currently a student of [School of Artificial Intelligence](https://ai.sdu.e
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- *2025.05*: &nbsp;Won the second prize in the AI Geeks Challenge of Shandong University.
+- *2025.03*: &nbsp;Won the first prize in the school competition of the China International College Students' Innovation Competition 2025.
 - *2025.01 - 2025.02*: &nbsp;Participated in the AgentSociety Challenge @ WWW 2025 and achieved 10th place.
 
 <span class='anchor' id='-projects'></span>
 
 # 📦 Projects
-<!-- - *2025.01 - 2025.02*: &nbsp; The Instrument Reservation System of the Psychological Center of Shandong University `WeChat Mini Program` `PHP` -->
 
 <span class='anchor' id='-experience'></span>
 
