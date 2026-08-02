@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lizhao Chen"
-description              : "Student of Shandong University"
+description              : "AI Undergraduate · LLM Agents & Full-Stack Systems"
 repository               : "Clizo1209/Clizo1209.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,6 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  birth_date       : "Dec. 2005"
   email            : "chenlz1209@qq.com"
   email_secondary  : "chenlz1209@icloud.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"

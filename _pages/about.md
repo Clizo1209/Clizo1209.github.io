@@ -17,17 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student pursuing a B.Eng. in Artificial Intelligence at [Shandong University](https://www.sdu.edu.cn/). My interests lie in LLM agents, AI service infrastructure, and production full-stack systems. I enjoy building practical software across the complete lifecycle, from requirements analysis and system design to deployment and long-term operation.
-
-- **Date of Birth:** Dec. 2005
-- **Email:** [chenlz1209@qq.com](mailto:chenlz1209@qq.com) · [chenlz1209@icloud.com](mailto:chenlz1209@icloud.com)
+I am an undergraduate student pursuing a B.Eng. in Artificial Intelligence at Shandong University. My interests lie in LLM agents, AI service infrastructure, and production full-stack systems. I enjoy building practical software across the complete lifecycle, from requirements analysis and system design to deployment and long-term operation.
 
 <span class='anchor' id='-education'></span>
 
 # 🎓 Education
 
 - **Shandong University**, School of Artificial Intelligence<br>
-  B.Eng. in Artificial Intelligence, Sep. 2024 – Present
+  B.Eng. in Artificial Intelligence, Sep. 2024 – Jun. 2028 (Expected)
 
 <span class='anchor' id='-projects'></span>
 
@@ -59,7 +56,7 @@ I am an undergraduate student pursuing a B.Eng. in Artificial Intelligence at [S
 
 *Team Leader · AgentSociety Challenge @ WWW 2025 · Jan. 2025 – Feb. 2025*
 
-- Led a three-student team under the guidance of two faculty advisors and ranked **10th among 295 registered teams** in the User Modeling Track ([official results](https://tsinghua-fib-lab.github.io/AgentSocietyChallenge/pages/winners.html)).
+- Led a three-student team under the guidance of two faculty advisors and ranked **10th among 295 registered teams** in the User Modeling Track.
 - Developed an LLM-based agent to estimate user preferences and generate personalized reviews from historical behavior records.
 - Extended the official Python baseline with prompt-engineering strategies, tool-assisted information retrieval, and structured agent workflows.
 
