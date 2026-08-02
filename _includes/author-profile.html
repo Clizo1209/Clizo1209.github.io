@@ -25,7 +25,7 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+    <h3 class="author__name">{% if author.name_latin and author.name_native %}<span class="author__name-part">{{ author.name_latin }}</span> <span class="author__name-part">{{ author.name_native }}</span>{% else %}{{ author.name }}{% endif %}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
     {% if profile_description %}<p class="author__print-description">{{ profile_description }}</p>{% endif %}
     {% if author.birth_date %}<p class="author__print-birth">{{ birth_label }}: {{ profile_birth_date }}</p>{% endif %}

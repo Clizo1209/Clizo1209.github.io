@@ -134,6 +134,10 @@
   }
   font-family: $sans-serif;
   font-size: $type-size-4;
+}
+
+.author__name-part {
+  display: inline-block;
   white-space: nowrap;
   word-break: keep-all;
 }
