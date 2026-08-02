@@ -134,6 +134,8 @@
   }
   font-family: $sans-serif;
   font-size: $type-size-4;
+  white-space: nowrap;
+  word-break: keep-all;
 }
 
 .author__bio {
