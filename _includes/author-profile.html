@@ -1,6 +1,22 @@
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
+{% assign profile_description = page.profile_description | default: site.description %}
+{% if page.lang == "zh-CN" %}
+  {% assign birth_label = "出生年月" %}
+  {% assign qq_email_label = "QQ 邮箱" %}
+  {% assign icloud_email_label = "iCloud 邮箱" %}
+  {% assign profile_location = "中国济南" %}
+  {% assign profile_birth_date = "2005 年 12 月" %}
+  {% assign contact_info_label = "联系方式" %}
+{% else %}
+  {% assign birth_label = "Date of Birth" %}
+  {% assign qq_email_label = "QQ Email" %}
+  {% assign icloud_email_label = "iCloud Email" %}
+  {% assign profile_location = author.location %}
+  {% assign profile_birth_date = author.birth_date %}
+  {% assign contact_info_label = "Contact information" %}
+{% endif %}
 
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
@@ -11,18 +27,18 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
-    {% if site.description %}<p class="author__print-description">{{ site.description }}</p>{% endif %}
-    {% if author.birth_date %}<p class="author__print-birth">Date of Birth: {{ author.birth_date }}</p>{% endif %}
+    {% if profile_description %}<p class="author__print-description">{{ profile_description }}</p>{% endif %}
+    {% if author.birth_date %}<p class="author__print-birth">{{ birth_label }}: {{ profile_birth_date }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
-      {% if site.description %}
-        <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
+      {% if profile_description %}
+        <li><div style="white-space: normal; margin-bottom: 1em;">{{ profile_description }}</div></li>
       {% endif %}
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ profile_location }}</li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
@@ -32,19 +48,19 @@
       {% endif %}
       {% if author.birth_date %}
         <li class="author__contact-detail">
-          <div class="author__contact-label"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Date of Birth</div>
-          <span class="author__contact-value">{{ author.birth_date }}</span>
+          <div class="author__contact-label"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ birth_label }}</div>
+          <span class="author__contact-value">{{ profile_birth_date }}</span>
         </li>
       {% endif %}
       {% if author.email %}
         <li class="author__contact-detail">
-          <a class="author__contact-label" href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> QQ Email</a>
+          <a class="author__contact-label" href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ qq_email_label }}</a>
           <a class="author__contact-value" href="mailto:{{ author.email }}">{{ author.email }}</a>
         </li>
       {% endif %}
       {% if author.email_secondary %}
         <li class="author__contact-detail">
-          <a class="author__contact-label" href="mailto:{{ author.email_secondary }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> iCloud Email</a>
+          <a class="author__contact-label" href="mailto:{{ author.email_secondary }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ icloud_email_label }}</a>
           <a class="author__contact-value" href="mailto:{{ author.email_secondary }}">{{ author.email_secondary }}</a>
         </li>
       {% endif %}
@@ -144,10 +160,10 @@
         <a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.email %}
-        <a href="mailto:{{ author.email }}" aria-label="QQ Email" title="{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
+        <a href="mailto:{{ author.email }}" aria-label="{{ qq_email_label }}" title="{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.email_secondary %}
-        <a href="mailto:{{ author.email_secondary }}" aria-label="iCloud Email" title="{{ author.email_secondary }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
+        <a href="mailto:{{ author.email_secondary }}" aria-label="{{ icloud_email_label }}" title="{{ author.email_secondary }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.keybase %}
         <a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i></a>
@@ -239,7 +255,7 @@
     </div>
   </div>
 
-  <div class="author__print-contact" aria-label="Contact information">
+  <div class="author__print-contact" aria-label="{{ contact_info_label }}">
     {% if author.email %}<a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i>{{ author.email }}</a>{% endif %}
     {% if author.email_secondary %}<a href="mailto:{{ author.email_secondary }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i>{{ author.email_secondary }}</a>{% endif %}
     {% if author.github %}<a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i>github.com/{{ author.github }}</a>{% endif %}

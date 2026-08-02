@@ -43,6 +43,37 @@
   }
 }
 
+.greedy-nav {
+  padding-right: 3.5rem;
+
+  .masthead__language-switch {
+    position: absolute;
+    top: 50%;
+    right: 3rem;
+    z-index: 2;
+    min-width: 2.5rem;
+    margin: 0;
+    padding: 0.25rem 0.55rem;
+    border: 1px solid $border-color;
+    border-radius: 999px;
+    font-size: $type-size-6;
+    font-weight: 700;
+    line-height: 1.2;
+    text-align: center;
+    transform: translateY(-50%);
+    transition: $global-transition;
+
+    &:hover {
+      border-color: $masthead-link-color-hover;
+      background: mix(#fff, $primary-color, 90%);
+    }
+  }
+
+  button.hidden + .masthead__language-switch {
+    right: 0;
+  }
+}
+
 .masthead__menu-home-item {
   @include breakpoint($medium) {
     display: block !important;
@@ -60,5 +91,3 @@
     font-weight: 700;
   }
 }
-
-

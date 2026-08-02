@@ -3,6 +3,8 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
+lang: en
+profile_description: "AI Undergraduate · LLM Agents & Full-Stack Systems"
 redirect_from:
   - /about/
   - /about.html
@@ -76,8 +78,8 @@ I am an undergraduate student pursuing a B.Eng. in Artificial Intelligence at Sh
 
 # 🏆 Honors & Awards
 
-- **Outstanding Communist Youth League Member**, Shandong University, 2024–2025
-- **First-Class Special Talent Scholarship (Academic Specialty Category)**, Shandong University, 2024
+- **Outstanding Communist Youth League Member**, Shandong University, 2024 and 2025
+- **First-Class Special Talent Scholarship (Academic Specialty Category)**, Shandong University, Academic Year 2024–2025
 - **10th Place / Finalist**, User Modeling Track, AgentSociety Challenge @ WWW 2025
 - **Second Prize**, AI Geeks Challenge, Shandong University, 2025
 - **First Prize**, School of Artificial Intelligence Preliminary Round, China International College Students' Innovation Competition, 2025
