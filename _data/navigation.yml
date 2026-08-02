@@ -3,20 +3,20 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Education"
+    url: "/#-education"
 
   - title: "Projects"
     url: "/#-projects"
 
-  - title: "Experience"
-    url: "/#-experience"
+  - title: "Leadership"
+    url: "/#-leadership"
 
-  - title: "Learning"
-    url: "/#-learning"
+  - title: "Honors & Awards"
+    url: "/#-honors"
 
-  - title: "Advantages"
-    url: "/#-advantages"
+  - title: "Technical Skills"
+    url: "/#-skills"
 
-  - title: "Hobbies"
+  - title: "Interests"
     url: "/#-hobbies"

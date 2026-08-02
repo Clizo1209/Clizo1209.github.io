@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,58 +17,86 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a student of [School of Artificial Intelligence](https://ai.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/). 
+I am an undergraduate student pursuing a B.Eng. in Artificial Intelligence at [Shandong University](https://www.sdu.edu.cn/). My interests lie in LLM agents, AI service infrastructure, and production full-stack systems. I enjoy building practical software across the complete lifecycle, from requirements analysis and system design to deployment and long-term operation.
 
-# 🪪 Profile
-- *Gender*: &nbsp;Male
-- *Phone*: &nbsp;[Private]
-- *WeChat*: &nbsp;[Private]
-- *EMail*: &nbsp;[Private]
-- *Birthday*: &nbsp;2005.[Private]
+- **Date of Birth:** Dec. 2005
+- **Email:** [chenlz1209@qq.com](mailto:chenlz1209@qq.com) · [chenlz1209@icloud.com](mailto:chenlz1209@icloud.com)
 
-<span class='anchor' id='-news'></span>
+<span class='anchor' id='-education'></span>
 
-# 🔥 News
-- *2025.05*: &nbsp;Won the second prize in the AI Geeks Challenge of Shandong University.
-- *2025.03*: &nbsp;Won the first prize in the school competition of the China International College Students' Innovation Competition 2025.
-- *2025.01 - 2025.02*: &nbsp;Participated in the AgentSociety Challenge @ WWW 2025 and achieved 10th place.
+# 🎓 Education
+
+- **Shandong University**, School of Artificial Intelligence<br>
+  B.Eng. in Artificial Intelligence, Sep. 2024 – Present
 
 <span class='anchor' id='-projects'></span>
 
-# 📦 Projects
+# 📦 Selected Projects
 
-<span class='anchor' id='-experience'></span>
+## Internal Workflow and Management Platform
 
-# 🎓 Experience
-- *2024.09 - Present* &nbsp;Study at [School of Artificial Intelligence](https://ai.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/)
-- *2021.09 - 2024.06* &nbsp;Study at [Jinan Licheng No.2 High School](https://www.lcez.cn/)
+*Independent Full-Stack Developer & System Administrator · Jul. 2025 – Present*
 
-<span class='anchor' id='-learning'></span>
+- Independently designed, developed, deployed, and maintained a suite of 10+ internal web systems used by approximately 200 active faculty members and students.
+- Managed the complete software lifecycle, including requirements analysis, architecture design, full-stack development, database administration, Docker-based deployment, server operations, and ongoing maintenance.
+- Digitalized workflows including comprehensive evaluation, volunteer applications, leave requests, meeting-room reservations, assignment submission, activity records, competition management, information publishing, and team recruitment.
+- Processed **8,993 production submissions and applications** and recorded **44,626 page views** during the first year of operation.
+- Implemented a unified authentication gateway based on the university's centralized identity service, enabling single sign-on across the internal applications.
+- Built primarily with **Vue.js and Node.js**, with selected services using Python, C#, Redis, SQLite, MySQL, and PostgreSQL.
 
-# 📖 Learning
-- *2024*: &nbsp;Learn Python.
-- *2023*: &nbsp;Learn Cybersecurity.
-- *2022*: &nbsp;Learn Java and develop game plugins.
-- *2021*: &nbsp;Learn WeChat Mini Program development.
-- *2020*: &nbsp;Learn Unity development.
-- *2019*: &nbsp;Learn ASP, PHP and other Web development, familiar with MS SQL Server, MySQL and other databases.
-- *2017*: &nbsp;Learn C# for Windows desktop development.
+## AI Agent Service Framework
 
-<span class='anchor' id='-advantages'></span>
+*Independent Developer · May 2025 – Aug. 2026*
 
-# 📝 Advantages
-- **Strong Self-Learning Ability**: &nbsp;Has been learning development for around eight years, with most knowledge acquired through online resources. 
-- **Cross-Platform Development**: &nbsp;Currently proficient in Windows desktop development, web development, and network-related technologies, with a strong grasp of web scraping and data collection techniques. 
-- **Rich Practical Experience**: &nbsp;Extensive development experience in desktop applications, web development, and game server plugins, having undertaken related development tasks. 
-- **Good Academic Performance**: &nbsp;Ranked 4377 in the provincial entrance examination in Shandong (out of approximately 720,000 candidates), with a perfect score in the foundational programming course "Introduction to Programming" during the first semester of university. 
+- Designed and implemented a full-stack AI agent framework in Node.js and Vue, evolving from an earlier Python-based MCP campus assistant.
+- Built a progressively disclosed Tools and Skills architecture with semantic capability discovery, dynamic JavaScript tools, worker-isolated execution, scoped secrets, version control, test gates, quotas, and audit logging.
+- Implemented long-term memory with automatic extraction, conflict-aware updates, semantic deduplication, and retrieval weighted by relevance, recency, and importance.
+- Added persistent task planning, reconnectable background execution, parallel tool calling, and automatic context compression for multi-step workflows.
+- Developed a three-level knowledge system with hybrid retrieval using pgvector, Chinese full-text search, and reciprocal rank fusion.
+- Integrated OpenAI-compatible, Anthropic, and Gemini model providers together with SearXNG, Crawl4AI, Redis, PostgreSQL, and Docker Compose.
 
-<!-- # 📝 Publications 
-- Building... -->
+## LLM Agent for User Behavior Modeling
 
-<!-- # 🎖 Honors and Awards
-- *Building* Building... -->
+*Team Leader · AgentSociety Challenge @ WWW 2025 · Jan. 2025 – Feb. 2025*
+
+- Led a three-student team under the guidance of two faculty advisors and ranked **10th among 295 registered teams** in the User Modeling Track ([official results](https://tsinghua-fib-lab.github.io/AgentSocietyChallenge/pages/winners.html)).
+- Developed an LLM-based agent to estimate user preferences and generate personalized reviews from historical behavior records.
+- Extended the official Python baseline with prompt-engineering strategies, tool-assisted information retrieval, and structured agent workflows.
+
+<span class='anchor' id='-leadership'></span>
+
+# 🤝 Leadership
+
+## Founder & President, SDU AI UniX
+
+*Shandong University · Jun. 2025 – Aug. 2026*
+
+- Founded and grew a student AI community to approximately **900 members** within its first year.
+- Recruited and led a **50-member organizing team** responsible for technical programs, competitions, development activities, and community operations.
+- Led the organization of **40+ events**, generating approximately **10,000 cumulative attendances** across courses, competitions, development programs, and community activities.
+
+<span class='anchor' id='-honors'></span>
+
+# 🏆 Honors & Awards
+
+- **Outstanding Communist Youth League Member**, Shandong University, 2024–2025
+- **First-Class Special Talent Scholarship (Academic Specialty Category)**, Shandong University, 2024
+- **10th Place / Finalist**, User Modeling Track, AgentSociety Challenge @ WWW 2025
+- **Second Prize**, AI Geeks Challenge, Shandong University, 2025
+- **First Prize**, School of Artificial Intelligence Preliminary Round, China International College Students' Innovation Competition, 2025
+
+<span class='anchor' id='-skills'></span>
+
+# 🛠️ Technical Skills
+
+- **LLM Agent Systems:** Agentic workflows, tool and function calling, MCP, RAG, long-term memory and context management, task planning, modular Agent Skills, multi-provider LLM integration
+- **Programming:** C#, JavaScript (Node.js), Java, SQL, Python
+- **Backend & Data:** Express, PostgreSQL/pgvector, MySQL, SQLite, Redis, REST API and database design, CAS-based centralized authentication and SSO
+- **Infrastructure & Operations:** Docker Compose, Nginx, Linux server administration, monitoring and logging, backup and recovery, network and application security
+- **AI-Assisted Software Engineering:** Extensive hands-on experience since 2024 with ChatGPT, Cursor, Windsurf, Claude Code, and Codex across requirements analysis, implementation, debugging, code review, refactoring, documentation, and maintenance
 
 <span class='anchor' id='-hobbies'></span>
 
-# 🔎 Hobbies
-- Photography, Drone, Video Clips, etc.
+# 🔎 Interests
+
+Photography, drone videography, and video editing.
